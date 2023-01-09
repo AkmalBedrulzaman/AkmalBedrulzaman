@@ -1,4 +1,4 @@
-# :sparkles:  Welcome to My GitHub Page :sparkles:
+# :sparkles:  Welcome to my GitHub Page :sparkles:
 ## 👋 Hi, I’m @AkmalBedrulzaman a Graduated of Bachelor in Science (Hons.) Mathematics
 📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉 
 ### A little introduction about me:
