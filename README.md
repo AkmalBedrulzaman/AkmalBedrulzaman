@@ -1,5 +1,5 @@
 # ✨ Welcome to My GitHub Page ✨
-## 👋 Hi, I’m @AkmalBedrulzaman Graduated of Bachelor in Science (Hons.) Mathematics
+## 👋 Hi, I’m @AkmalBedrulzaman a graduated of Bachelor in Science (Hons.) Mathematics
 📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉📈📉 
 ### A little introduction about me:
 - 👀 I’m interested in Data Analyst, Business Analyst and Data Scientist
