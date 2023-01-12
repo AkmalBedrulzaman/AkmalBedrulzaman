@@ -5,6 +5,7 @@
 - 👀 I’m interested in Data Analyst, Business Analyst and Data Scientist
 - 🌱 I’m currently learning programme Certified Associate in Business Analyst at TalentLab & programme Professional Certification in Data Scientist at Kulim Advanced Technologies
 - 💞️ I’m looking for collaboration on any project involving Data Analytics, Business Analytics and Data Science 
+- 📂 Please visit my https://github.com/AkmalBedrulzaman?tab=repositories to see my project in Data Analyst
 - 📫 How to reach me: akmal.bedrul@gmail.com
 <div id="badges">
   <a href="https://www.linkedin.com/in/akmalbedrulzaman/">
